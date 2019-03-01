@@ -4,7 +4,7 @@ Device::NTCChip::GPIO - Control the GPIO pins on the original NTC Chip
 
 # VERSION
 
-version 0.100
+version 0.101
 
 # SYNOPSIS
 
@@ -66,7 +66,7 @@ Read whether a pin is on or off (high or low).
 # BUGS/FEATURES
 
 Please report any bugs or feature requests in the issues section of GitHub: 
-[https://github.com/Q-Technologies/perl-Log-MixedColor](https://github.com/Q-Technologies/perl-Log-MixedColor). Ideally, submit a Pull Request.
+[https://github.com/Q-Technologies/perl-Device-NTCChip-GPIO](https://github.com/Q-Technologies/perl-Device-NTCChip-GPIO). Ideally, submit a Pull Request.
 
 # AUTHOR
 
