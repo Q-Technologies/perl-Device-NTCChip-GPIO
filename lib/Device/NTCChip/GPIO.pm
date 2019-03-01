@@ -331,7 +331,7 @@ sub _get_num_from_file {
 =head1 BUGS/FEATURES
 
 Please report any bugs or feature requests in the issues section of GitHub: 
-L<https://github.com/Q-Technologies/perl-Log-MixedColor>. Ideally, submit a Pull Request.
+L<https://github.com/Q-Technologies/perl-Device-NTCChip-GPIO>. Ideally, submit a Pull Request.
 
 =cut
 
